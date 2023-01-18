@@ -1,0 +1,8 @@
+{
+    "openai_key": "",
+    "modules": [
+        "home",
+        "product",
+        "pos"
+    ]
+}
