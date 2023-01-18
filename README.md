@@ -1,6 +1,7 @@
 # Store Records
 
 Aplikasi POS dan pencatatan barang, menggunakan penyimpanan offline sehingga tidak memerlukan koneksi internet untuk menjalankannya.
+
 ![Store Records](https://user-images.githubusercontent.com/74108522/213166569-e769f547-2106-4192-b08c-4348b5e712ca.png)
 
 ## Getting Started
